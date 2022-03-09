@@ -1473,7 +1473,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11456902, guid: b58f1f87dc68947dfb9766f0cb9ec1fc, type: 3}
       propertyPath: _WikitudeLicenseKey
-      value: UnZ+EjB1ib0Vw1cUQ3PNoNFb3Hxx11O61OixnnTpLrI0pIaVoqX2VvZssXYSllUiXoyJDbbOCKJEqPaAIFF5Wcsd2p1KWedAchGH3KnuGeTtbRCRQR+sqzEf5hJnMePRhufa1E7VxKX/qDfnZK7OIn3BYfGJzT5GOSyR+4rfHmtTYWx0ZWRfX4mMB5c8V3wjH5UGG5ebX332M8eg4q2SZoC+Pdho3PpwJ9e88fXvdIJuZfJoGdyHek+hEeXyB1d6qQZMMGP6vmvmDv3acTBdw+I9b9zL0MFsU1Zkeb5UQPEaNGCM4mgq6Xo+7LFwOspCpgbbB8Cm3T/Sobc2rhIFpNlbBUePp7jnC4gmwwxdxY4s81OEgSZ9a3xfcdhBCGRs7eN0igfRIF+E/svu+IXtFRdbZLaLAs0yKdBcD2gQfly1y9Vy/WYlr4eBIIaoG3w5rLzbNQ9LCk0L5tWceH4YV5yYsYAD2oS78avPRkqiEhI2dTLsdjV1m/9hQycVB4+0XOy96GU221FoYUPVIb/3f0Vslgj95tiM4GgXDBEs4foVXG5VVri2VzpLO60osng5RBNuScsr7FFiaXBddnaXr61JGregEEbPoVKbOuN5fEOcxh4K5td902CxGQGBxHo/tLGjYyxK5dwBw+TLaei8eoANOaXmCbySXU82/SPH26OIORR8WOgdHA7ouHxrBcRSsvYumwfLO9WoJqWlb4K+sdH0mpJNfq8oFwmYyugA40Gm093BfoJK6k5XkAfVf1gVah7Xiy0uxYoVcEJyFVkOf3uLVIcPL2LRcEo6HidpWjMXWF1wwLE+pMwSQ8rAu3BB
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 11456902, guid: b58f1f87dc68947dfb9766f0cb9ec1fc, type: 3}
       propertyPath: _enableCamera2
