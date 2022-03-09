@@ -20,4 +20,5 @@ Marker:
 <img src="https://user-images.githubusercontent.com/49655223/157524538-40c1e0d7-f9d0-43f7-afbc-09a49802b697.JPG" width="720" height="480">
 
 
-For more details, please reference the in depth documentation (Romanian version) <TODO: Add documentation>
+For more details, please reference the in depth [documentation](https://github.com/IordacheDario99/ARChess/files/8218076/Documentatie.pdf) (Romanian language)
+
